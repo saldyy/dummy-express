@@ -1,0 +1,15 @@
+{
+  "name": "docker-secret",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:saldyy/dummy-express.git",
+  "author": "Phuc Nguyen <png9981@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
